@@ -1,0 +1,17 @@
+:root {
+  --dark: #1f2229;
+  --light-blue: #3fcbff;
+  --red: #d72f4b;
+  --gray: #a2abb4;
+  --white: #ffffff;
+  --dark-gray: #8f9399;
+}
+
+html {
+  font-family: $base-font-family;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: $base-font-family;
+}
